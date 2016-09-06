@@ -1,6 +1,6 @@
 # convert-date-formato-eua
-Retorna data no formato americano a partir de uma data no formato brasileiro;
-Padrão muito usado na inserção de banco de dados.
+Retorna data no formato americano a partir de uma data no formato brasileiro <br>
+Padrão muito usado na inserção de banco de dados, facilitando a transição para o back-end
 
 # Uso
 <pre>
